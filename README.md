@@ -56,7 +56,7 @@ Each project includes data preprocessing, exploratory data analysis (EDA), model
 ## 📊 Sample Model Output
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BerkeKara00/Kaggle-Project/main/score_plot.png" width="600">
+  <img src="Lin_regression.png" width="600">
 </p>
 
 ---
