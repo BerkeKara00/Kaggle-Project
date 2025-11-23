@@ -23,6 +23,7 @@ Her proje veri ön işleme, model eğitimi ve değerlendirme metriklerini kapsam
 - [SVM](SVM/) – Support Vector Machine modelleri için Jupyter notebook
 - [LogisticRegression](LogisticRegression/) – Lojistik regresyon çalışmaları
 - [LinearRegression](LinearRegression/) – Lineer regresyon çalışmaları
+- [DataAnalysis](DataAnalysis/) - Veri analizi çalışmaları
 
 
 
