@@ -1,14 +1,13 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/<kullanıcı>/<repo>/main/banner.jpg" width="800">
+  <img src="https://github.com/BerkeKara00/Kaggle-Project/blob/main/Kaggle_Logo.svg.png" width="500" />
 </p>
 
-<h1 align="center">🔍 Kaggle Machine Learning Projects</h1>
+<h1 align="center">Kaggle Machine Learning Project</h1>
 
 <p align="center">
-  Gerçek Kaggle datasetleriyle yapılan veri analizi ve makine öğrenimi projeleri.
+  <strong>📊 Veri Analizi • 🤖 Makine Öğrenimi • 📈 Modelleme</strong>
 </p>
 
----
 
 ## 🚀 Proje Hakkında
 
@@ -20,15 +19,26 @@ Her proje veri ön işleme, model eğitimi ve değerlendirme metriklerini kapsam
 ## 📂 Klasör Yapısı
 
 
----
+
+
+
+
 
 ## 🛠 Kullanılan Teknolojiler
 
 - Python  
-- Pandas, NumPy  
-- Scikit-Learn  
-- Seaborn, Matplotlib  
-- Jupyter Notebook  
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Scikit-Learn
+- SVM, Linear Regression, Logistic Regression, Random Forest modelleri
+- StandardScaler, MinMaxScaler, RobustScaler
+- GridSearchCV & RandomizedSearchCV
+- Cross-Validation
+- Jupyter Notebook
+- Makine öğrenimi metrikleri
+- Accuracy, Precision, Recall
+- F1-Score, ROC–AUC
+- MAE, MSE, RMSE
 
 ---
 
