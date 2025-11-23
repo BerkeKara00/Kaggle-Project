@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/BerkeKara00/Kaggle-Project/blob/main/Kaggle_Logo.svg.png" width="500" />
+  <img src="https://github.com/BerkeKara00/Kaggle-Project/blob/main/img/Kaggle_Logo.svg.png" width="500" />
 </p>
 
 <h1 align="center">Kaggle Machine Learning Project</h1>
@@ -56,8 +56,10 @@ Each project includes data preprocessing, exploratory data analysis (EDA), model
 ## 📊 Sample Model Output
 
 <p align="center">
-  <img src="Lin_regression.png" width="600">
+  <img src="img/Lin_regression.png" width="45%">
+  <img src="img/Model_Prediction.png" width="45%">
 </p>
+
 
 ---
 
