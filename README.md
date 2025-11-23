@@ -16,8 +16,13 @@ Her proje veri ön işleme, model eğitimi ve değerlendirme metriklerini kapsam
 
 ---
 
+
 ## 📂 Klasör Yapısı
 
+- [datasets](datasets/) – Kaggle’dan indirilen ham veri dosyaları
+- [SVM](SVM/) – Support Vector Machine modelleri için Jupyter notebook
+- [LogisticRegression](LogisticRegression/) – Lojistik regresyon çalışmaları
+- [LinearRegression](LinearRegression/) – Lineer regresyon çalışmaları
 
 
 
